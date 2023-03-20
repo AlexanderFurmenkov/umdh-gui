@@ -19,7 +19,7 @@ Features:
 - summary info
 - different data representations (filtered plain text, list, calls count info)
 
-# Preview test
+# Preview
 
 After the steps
 ![1](https://user-images.githubusercontent.com/89101788/130332990-eee0e576-2616-4a3e-85c9-d382061b217f.png)
